@@ -4,7 +4,7 @@ I Am Another One Of Those Entusiastics Forkers................
 
 Hope you all enjoy the work.
 
-![snake gif](https://raw.githubusercontent.com/JeanCarlosChavarriaHughes/JeanCarlosChavarriaHughes/main/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/JeanCarlosChavarriaHughes/JeanCarlosChavarriaHughes/master/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working as software quality assurance and software development for propieraty software based on Java, Javascript and Python.
 - 🌱 I’m currently learning IoT with Raspian, Computer networks and Mobile Internet 2.0
