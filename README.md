@@ -6,11 +6,11 @@ Hope you all enjoy the work.
 
 ![snake gif](https://raw.githubusercontent.com/JeanCarlosChavarriaHughes/JeanCarlosChavarriaHughes/master/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working as software quality assurance and software development for propieraty software based on Java, Javascript and Python.
+- 🔭 I’m currently working as software quality assurance and software development for propieraty software based on Python, Javascript and Java.
 - 🌱 I’m currently learning IoT with Raspian, Computer networks and Mobile Internet 2.0
 - 💬 Ask me about software quality assurance engineering, DevOps, Electronics and Software Development...
 - 📫 How to reach me: you can open an [issue](https://github.com/JeanCarlosChavarriaHughes/JeanCarlosChavarriaHughes/issues) and I will contact you back ASAP.
-- ⚡ Fun fact: During the night I like to work on Php projects and remeber those lovely past days of Php greatness.
+- ⚡ Fun fact: During the night I like to work on PHP projects and remeber those lovely past days of PHP greatness.
 
 
 ## GitHub Stats 🌟
@@ -24,9 +24,9 @@ Hope you all enjoy the work.
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/jeancarlos19)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarloschavarriahughes/)
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/4696051/negrotico19)
 
-
-**JeanCarlosChavarriaHughes/JeanCarlosChavarriaHughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <div align="center">
@@ -37,6 +37,8 @@ Hope you all enjoy the work.
 <code>I'm a Electrical Engineer. 😎</code>
 <code>I love programming, testing and automating. ❤</code>
 <code>JeanCarlosChavarriaHughes lover. 😉</code>
+<code>[Vultr](https://www.vultr.com/?ref=8447944)</code>
+
 
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
