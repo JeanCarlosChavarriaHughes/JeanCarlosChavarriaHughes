@@ -16,7 +16,8 @@ Hope you all enjoy the work.
 ## GitHub Stats 🌟
 
 ![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=JeanCarlosChavarriaHughes&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosChavarriaHughes&layout=compact)](https://github.com/JeanCarlosChavarriaHughes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosChavarriaHughes&layout=compact)]
+![jeancarloschavarriahughes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeancarloschavarriahughes&theme=vue-dark&hide_border=true)
 <!-- ![counter](https://komarev.com/ghpvc/?username=JeanCarlosChavarriaHughes&style=flat-square) -->
 
 
@@ -42,10 +43,10 @@ Hope you all enjoy the work.
 
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
-<b>Skills :</b> <code>Python</code> | <code>Javascript</code> | <code>Linux</code> | <code>Networking</code> | <code>Jenkins</code> | <code>Test Automation</code> | <code>Bash</code> | <code>Ansible</code>
+<b>Skills :</b> <code>Python</code> | <code>Javascript</code> | <code>Linux</code> | <code>Jenkins</code> | <code>Robot Framework</code> | <code>Selenium</code> |  <code>Java</code> | <code>SQL</code> | <code>Ansible</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosChavarriaHughes&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
 
-<br><img src="https://gpvc.arturio.dev/JeanCarlosChavarriaHughes" alt="Profile views">
+![](https://komarev.com/ghpvc/?username=jeancarloschavarriahughes&label=Views)
 
 </div>
