@@ -14,13 +14,15 @@ Hope you all enjoy the work.
 
 
 ## GitHub Stats 🌟
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=JeanCarlosChavarriaHughes&layout=compact)
-![Github stats](https://readme-stats-fast.vercel.app/api?username=JeanCarlosChavarriaHughes)
 ![GitHub's Streak](http://costaafrik-chatwood.sytes.net:8099/?user=JeanCarlosChavarriaHughes)
 
-## GitLab Stats
-![GitLab's side](https://gitlab-readme-stats-flax.vercel.app/api?username=jeancarloschavarriahughes)
+![Github stats](https://readme-stats-fast.vercel.app/api?username=JeanCarlosChavarriaHughes)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=JeanCarlosChavarriaHughes&layout=compact)
+
+
+<!-- ## GitLab Stats -->
+<!-- ![GitLab's side](https://gitlab-readme-stats-flax.vercel.app/api?username=jeancarloschavarriahughes) -->
 
 <!-- ![counter](https://komarev.com/ghpvc/?username=JeanCarlosChavarriaHughes&style=flat-square) -->
 
@@ -49,7 +51,7 @@ Hope you all enjoy the work.
 
 <b>Skills :</b> <code>Python</code> | <code>Javascript</code> | <code>Linux</code> | <code>Jenkins</code> | <code>Robot Framework</code> | <code>Selenium</code> |  <code>Java</code> | <code>SQL</code> | <code>Ansible</code>
 
-<br><img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosChavarriaHughes&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
+<!--<br><img src="https://github-readme-stats-fast.vercel.app/api?username=JeanCarlosChavarriaHughes&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">-->
 
 ![](https://komarev.com/ghpvc/?username=jeancarloschavarriahughes&label=Views)
 
