@@ -15,9 +15,9 @@ Hope you all enjoy the work.
 
 ## GitHub Stats 🌟
 
-![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=JeanCarlosChavarriaHughes&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosChavarriaHughes&layout=compact)
-![GitHub's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeancarloschavarriahughes&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=JeanCarlosChavarriaHughes&layout=compact)
+![Github stats](https://readme-stats-fast.vercel.app/api?username=JeanCarlosChavarriaHughes)
+![GitHub's Streak](http://costaafrik-chatwood.sytes.net:8099/?user=JeanCarlosChavarriaHughes)
 
 ## GitLab Stats
 ![GitLab's side](https://gitlab-readme-stats-flax.vercel.app/api?username=jeancarloschavarriahughes)
