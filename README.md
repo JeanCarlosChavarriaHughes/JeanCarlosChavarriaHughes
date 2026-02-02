@@ -30,7 +30,7 @@ Hope you all enjoy the work.
 ## Social Profiles ♥️
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/jeancarlos19)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/jeancarlos19) -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarloschavarriahughes/)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/4696051/negrotico19)
 
